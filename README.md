@@ -38,7 +38,7 @@ Durante o desenvolvimento deste projeto, utilizei diversos conceitos e funcional
 - Cada botão foi associado a um evento que atualiza seu texto com o símbolo do jogador atual (`X` ou `O`) e verifica as condições de vitória.
 
 ### 3. **Estruturas de Controle**
-- **Condicionais (`if`, `else`)**: Usadas para verificar se um botão foi clicado e se o jogo já terminou.
+- **Condicionais (`if`)**: Usada para verificar se um botão foi clicado e se o jogo já terminou.
 - **Loops (`for`)**: Aplicados para iterar sobre as linhas e colunas do tabuleiro durante a verificação do vencedor.
 
 ### 4. **Manipulação de Strings**
